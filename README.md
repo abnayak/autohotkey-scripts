@@ -18,3 +18,12 @@ Description of scripts:
 1. closeApplication.ahk : 
 
 Maps Control-q to Alt-F4. So, we can close applications by pressing Control+q in UNIX/Mac way.
+
+2. VolumeControl.ahk :
+
+Maps Control + Shift + <Numpad +, -, enter> to Volume Up/Down/Mute.
+
+
+Autohotkey keyboard maps:
+-------------------------
+https://www.autohotkey.com/docs/KeyList.htm
