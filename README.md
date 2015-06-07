@@ -15,13 +15,9 @@ When properly started, you can see Autohokey icons for each scripts in your task
 
 Description of scripts:
 -----------------------
-1. closeApplication.ahk : 
+1. closeApplication.ahk :  Maps Control-q to Alt-F4. So, we can close applications by pressing Control+q in UNIX/Mac way.
 
-Maps Control-q to Alt-F4. So, we can close applications by pressing Control+q in UNIX/Mac way.
-
-2. VolumeControl.ahk :
-
-Maps Control + Shift + <Numpad +, -, enter> to Volume Up/Down/Mute.
+2. VolumeControl.ahk : Maps Control + Shift + Numpad +/-/enter to Volume Up/Down/Mute.
 
 
 Autohotkey keyboard maps:
